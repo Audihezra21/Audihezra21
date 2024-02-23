@@ -1,5 +1,11 @@
-### Hi there 👋
+# Halo Semua! 👋
 
+Perkenalkan nama saya **Audia Hezra Destamerda**.<br>
+Saya Berkuliah di **Universitas Pasundan**
+<br>
+Saya Mahasiswa **Teknik Informatika**
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://linkedin.com/in/audiahezra/) ku ya.
 <!--
 **Audihezra21/Audihezra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
